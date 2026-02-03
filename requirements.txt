@@ -1,0 +1,1 @@
+python-Schoolbot-bot==20.7
